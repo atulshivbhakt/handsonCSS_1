@@ -1,0 +1,31 @@
+.two
+{
+    color: red;
+    font-style: italic;
+}
+.list{
+    color: rgb(169, 0, 0);
+}
+.line{
+    background-color:yellow;
+}
+.underline{
+    text-decoration-line: underline;
+    font-style: italic;
+}
+.three{
+    color: red;
+    font-style: italic;
+}
+.unlist{
+    color: rgb(169, 0, 0);
+    letter-spacing: 5px;
+}
+.last{
+    background-color: yellow;
+}
+.link{
+    color: rgb(169, 0, 0);
+    background-color: yellow;
+    font-style: italic;
+}
